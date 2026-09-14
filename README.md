@@ -5,7 +5,7 @@
 <h3 align="center">A passionate builder working at the intersection of AI, product, and engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laxman-ai&label=Profile%20views&color=6C3AC8&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dongrelaxman&label=Profile%20views&color=6C3AC8&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxman-ai&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman-ai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dongrelaxman&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongrelaxman&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
